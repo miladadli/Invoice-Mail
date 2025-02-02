@@ -1,4 +1,4 @@
-# InvoiceMail by Milad Adli
+# InvoiceMail
 
 This project includes the `InvoiceService` and `EmailService`. The services can be easily set up and run using Docker Compose.
 
@@ -13,9 +13,7 @@ This project includes the `InvoiceService` and `EmailService`. The services can 
 
 ### Build and Start the Services
 
-1. Extract the contents of the ZIP file to a directory on your machine.
-
-2. Navigate to the `InvoiceMail` folder in your terminal:
+1. Navigate to the `InvoiceMail` folder in your terminal:
 
 ```bash
 cd path/to/InvoiceMail
